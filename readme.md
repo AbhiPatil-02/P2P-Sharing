@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔒 Secure P2P File Sharing & Chat  
 
 A secure Peer-to-Peer (P2P) file sharing and chat application built in Python with end-to-end encryption.  
@@ -96,3 +97,6 @@ pip install cryptography pillow ttkthemes sv-ttk
 
 contact:-
 patilrajakumar80@gmail.com
+=======
+--
+>>>>>>> a0d661ce833fa70114d3500a7131b16fe879244e
