@@ -1,0 +1,17 @@
+this is my project structure 
+p2p_share/
+├── src/
+│   ├── main.py             
+│   ├── peer.py             
+│   ├── file_transfer.py    
+│   ├── chat.py             
+│   ├── gui.py              
+│   ├── animation.py        
+│   ├── config.py           
+│   └── utils.py            
+│
+├── shared/                 # Folder to store received files
+│
+├── requirements.txt        # Python dependencies
+└── README.md               # Setup and usage guide
+

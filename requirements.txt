@@ -1,0 +1,6 @@
+tk
+tkinterdnd2
+sv_ttk
+pillow
+cryptography
+ttkthemes
