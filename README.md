@@ -5,13 +5,14 @@
 ## 📖 Table of Contents
 
 - [🌟 Overview](#-overview)
-- [✨ Features](#-features)
-- [⚙️ Installation](#️-installation)
-- [🚀 Usage](#-usage)
-- [🔧 Configuration](#-configuration)
-- [📦 Dependencies](#-dependencies)
-- [🗂️ File Structure](#️-file-structure)
-- [🤝 Contributing & Contact](#-contributing--contact)
+- [✨ Features That Stand Out](#-features-that-stand-out)
+- [⚙️ Installation: Get Started in Minutes!](#️-installation-get-started-in-minutes)
+- [🚀 Usage: Connect & Communicate!](#-usage-connect--communicate)
+- [🔧 Configuration: Tailor It to Your Needs](#-configuration-tailor-it-to-your-needs)
+- [📦 Dependencies: The Power Behind the Scenes](#-dependencies-the-power-behind-the-scenes)
+- [🗂️ File Structure: An Organized Approach](#️-file-structure-an-organized-approach)
+- [🤝 Contributing & Contact: Join the Journey!](#-contributing--contact-join-the-journey)
+
 
 ---
 
