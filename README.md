@@ -125,6 +125,14 @@ All these dependencies will be automatically installed when you run `pip install
 All core application files are neatly organized within the `src` directory. Other folders like `__pycache__` will be created automatically by Python during execution.
 Got it! Here's the content you provided, formatted clearly and ready for you to paste directly into your README.md file.
 
+<pre>
+secure-p2p-file-sharing/
+├── src/
+│   ├── Keep all .py files here                                    # Main application files
+│   all required directories will be created automatically         # other file/folders
+
+</pre>
+
 Markdown
 
 ### GUI Options
@@ -163,19 +171,6 @@ This project relies on the following robust Python libraries:
 
 All these dependencies will be automatically installed when you run `pip install -r requirements.txt`.
 
----
-
-## 🗂️ File Structure: An Organized Approach
-
-All core application files are neatly organized within the `src` directory. Other folders like `__pycache__` will be created automatically by Python during execution.
-
-<pre>
-secure-p2p-file-sharing/
-├── src/
-│   ├── Keep all .py files here                                    # Main application files
-│   all required directories will be created automatically         # other file/folders
-
-</pre>
 ---
 
 ## 🤝 Contributing & Contact: Join the Journey!
